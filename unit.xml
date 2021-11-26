@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0290" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-11-26T00:35:59" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="http_basics" timestamp="2021-11-26T00:35:59" tests="6" file="/Users/joshuapozos/Documents/Dev/React/HackerRank/server-http/test/index.spec.js" time="0.0290" failures="0">
+    <testcase name="http_basics Should return 404 for an invalid route" time="0.0150" classname="Should return 404 for an invalid route">
+    </testcase>
+    <testcase name="http_basics Should return a 400 if the request param is not valid - 1" time="0.0020" classname="Should return a 400 if the request param is not valid - 1">
+    </testcase>
+    <testcase name="http_basics Should return a 400 if the request param is not valid - 2" time="0.0010" classname="Should return a 400 if the request param is not valid - 2">
+    </testcase>
+    <testcase name="http_basics Should return a 404 if the requested id is not present in data - 1" time="0.0020" classname="Should return a 404 if the requested id is not present in data - 1">
+    </testcase>
+    <testcase name="http_basics Should return a 404 if the requested id is not present in data - 2" time="0.0020" classname="Should return a 404 if the requested id is not present in data - 2">
+    </testcase>
+    <testcase name="http_basics Should return the correct data with status 200" time="0.0070" classname="Should return the correct data with status 200">
+    </testcase>
+  </testsuite>
+</testsuites>
